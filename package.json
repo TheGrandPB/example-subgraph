@@ -22,5 +22,8 @@
     "truffle": "^5.0.4",
     "truffle-contract": "^4.0.5",
     "truffle-hdwallet-provider": "^1.0.4"
+  },
+  "resolutions": {
+    "assemblyscript": "git+https://github.com/AssemblyScript/assemblyscript.git#v0.6"
   }
 }
